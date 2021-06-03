@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xna &#8211; LelloKrueger</title>
+	<atom:link href="/author/xna/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 21 May 2021 23:05:27 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Lorem Ipsum</title>
+		<link>/lorem-ipsum/</link>
+					<comments>/lorem-ipsum/#respond</comments>
+		
+		<dc:creator><![CDATA[xna]]></dc:creator>
+		<pubDate>Fri, 21 May 2021 23:05:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=78</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:50%">
+<div class="alignfull wp-block-ugb-container ugb-container ugb-1a531d3 ugb-container--v2 ugb-container--design-plain ugb-main-block ugb-main-block--inner-center ugb--has-block-background ugb--has-background-overlay"><style>.ugb-1a531d3{padding:0 !important}.ugb-1a531d3.ugb-container:before{background-image:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 100%)}@media screen and (min-width:768px){.ugb-1a531d3-content-wrapper.ugb-container__content-wrapper{width:100% !important}}</style><div class="ugb-inner-block ugb-inner-block--center"><div class="ugb-block-content"><div class="ugb-container__wrapper ugb-1a531d3-wrapper"><div class="ugb-container__side"><div class="ugb-container__content-wrapper ugb-1a531d3-content-wrapper">
+<p class="has-drop-cap has-text-align-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae arcu vestibulum, gravida turpis quis, convallis ipsum. Donec ullamcorper odio eget nibh bibendum, sit amet tincidunt ligula sodales. In nec risus imperdiet, ornare nisl in, aliquam erat. Integer accumsan convallis elit vel mollis. In tellus diam, posuere vel aliquam at, egestas nec felis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut sollicitudin pulvinar erat. Phasellus vitae quam in sem ornare venenatis.</p>
+
+
+
+<p>Donec rhoncus et sem sit amet ultrices. Pellentesque feugiat quis justo sit amet finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec ullamcorper efficitur libero vel aliquam. Donec consequat lectus sed augue consectetur, nec semper metus pharetra. Maecenas efficitur dignissim felis in rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+</div></div></div></div></div></div>
+</div>
+
+
+
+<div class="wp-block-column" style="flex-basis:50%"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lorem-ipsum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[xna]]></dc:creator>
+		<pubDate>Fri, 14 May 2021 22:13:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
